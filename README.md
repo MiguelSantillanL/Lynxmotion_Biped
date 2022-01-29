@@ -7,4 +7,4 @@ Proyecto para la materia de Algoritmos y Estructuras de datos (2019) para contro
 <img src="/src/IMG_20190520_134424.jpg"/>
 
 ## Servo Controlador SSC-32 de Lynxmotion
-<img src="/src/lynxmotion-ssc-32.jpg/>
+<img src="/src/lynxmotion-ssc-32.jpg"/>
